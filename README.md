@@ -1,2 +1,2 @@
 # writting
-prueba de git
+prueba del uso de GIT
